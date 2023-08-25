@@ -1,9 +1,5 @@
 # <p align="center">Real Sword Mod - Minecraft 1.20.1</p>
 
-[Chinese(Simplified)](/Chinese(Simplified).md)
-
-## 
-
 ![Real Sword Banner](/1.20.1 (1).png)
 
 ## 
