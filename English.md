@@ -4,7 +4,7 @@
 
 ## 
 
-![Real Sword Banner](/1.20.1.png)
+![Real Sword Banner](/1.20.1(1).png)
 
 ## 
 
