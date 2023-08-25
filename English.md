@@ -1,6 +1,6 @@
 # <p align="center">Real Sword Mod - Minecraft 1.20.1</p>
 
-![Real Sword Banner](/1.20.1 English.png)
+![Real Sword Banner](/1.20.1English.png)
 
 ## 
 
