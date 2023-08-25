@@ -4,7 +4,7 @@
 
 ### 在开始讨论规则之前，先对几个概念作出定义：
 
-**针对**：是在所有规则中被禁止的行为。
+**针对**：### **是在所有规则中被禁止的行为。**
 *它意味着对某一个具体的测试方唯一的特征性部分进行特别的处理（若是测试方"针对"mc，或"针对"测试方自己，则除外），或者说，一方的源代码中涉及了另一方唯一的特征性部分。*
 *如`chaoswither.happymode = false;`，`if (item.getClass().getName().startsWith("net.mcreator.supersword.")) {...}`，
 `if (mc.entityRenderer instanceof MxEntityRenderer) {...}`等都直接涉及其他具体的mod，是明显的针对，不应出现。*
