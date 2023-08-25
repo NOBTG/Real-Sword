@@ -1,7 +1,5 @@
 # <p align="center">Real Sword（真实之剑）Mod - Minecraft 1.20.1</p>
 
-## 
-
 [English](English.md)
 
 ## 
