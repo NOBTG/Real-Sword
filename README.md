@@ -1,6 +1,6 @@
 # <p align="center">Real Sword（真实之剑）Mod - Minecraft 1.20.1</p>
 
-![Real Sword 橫幅圖片](/main.png)
+![Real Sword 橫幅圖片](/1.20.1.png)
 
 ### <p align="center">欢迎来到 Real Sword（真实之剑）Mod，适用于 Minecraft Forge/NeoForged 1.20.1 平台！</p>
 ### <p align="center">这个功能丰富、创新的模组引入了一系列令人兴奋的特色，包括强化的防御机制、即时消灭能力（甚至可以锁血），以及令人惊叹的暂停游戏时间的功能。</p>
