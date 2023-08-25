@@ -1,63 +1,63 @@
-# <p align="center">Real Sword（真实之剑）Mod - Minecraft 1.20.1</p>
+# <p align="center">Real Sword Mod - Minecraft 1.20.1</p>
 
-[English](English.md)
-
-## 
-
-![Real Sword 橫幅圖片](/1.20.1.png)
+[Chinese(Simplified)](/Chinese(Simplified).md)
 
 ## 
 
-### <p align="center">欢迎来到 Real Sword（真实之剑）Mod，适用于 Minecraft Forge/NeoForged 1.20.1 平台！</p>
-### <p align="center">这个功能丰富、创新的模组引入了一系列令人兴奋的特色，包括强化的防御机制、即时消灭能力（甚至可以锁血），以及令人惊叹的暂停游戏时间的功能。</p>
-### <p align="center">此外，此模组还将经典的 1.8.9 格挡机制重新带回到了 1.20.1 版本。</p>
+![Real Sword Banner](/1.20.1.png)
+
+## 
+
+### <p align="center">Welcome to the Real Sword Mod for Minecraft Forge/NeoForged 1.20.1!</p>
+### <p align="center">This feature-rich and innovative mod introduces a range of exciting features, including enhanced defense mechanisms, instant-kill abilities (even with health lock), and the remarkable ability to pause the in-game time.</p>
+### <p align="center">Additionally, the mod brings back the classic 1.8.9 style blocking mechanics to the new 1.20.1 version.</p>
 
 ## 
 
 > [!WARNING]
-> 尽管此模组已经经过大部分测试，但因为使用Mixin，所以有可能会导致您的存档不稳定或者损坏，请谨慎使用此模组。
+> While this mod has undergone extensive testing, its use of Mixin may potentially result in instability or damage to your save files. Please use this mod cautiously.
 
 ## 
 
 > [!IMPORTANT]
-> 本模组还在开发完善中，如有发生重大问题，请立即连系开发人员处理。
+> This mod is still under development and refinement. If any major issues arise, please contact the developers immediately.
 
 ## 
 
-## 目录
-- [特色功能](#特色功能)
-- [安装方式](#安装方式)
-- [使用方式](#使用方式)
-- [贡献方式](#贡献方式)
-- [授权条款](#授权条款)
-- [鸣谢](#鸣谢)
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-## <p align="center">特色功能</p>
-- 🛡️ 强大的防御： 装备先进的武器和盔甲，增强您的防御能力，能够抵挡最强大的战斗。
-- ⚔️ 迅速消灭： 释放毁灭性的攻击，可以瞬间消灭您的敌人，在 Minecraft 的世界中成为一股无可阻挡的力量。
-- ⏸️ 时间控制： 控制时间本身！在需要时暂停游戏的时间流，让您在激烈时刻获得战略优势。
-- 🗡️ 经典格挡： 重温经典的 1.8.9 格挡机制，重新演绎为现代的 1.20.1 版本。
+## <p align="center">Features</p>
+- 🛡️ **Powerful Defense:** Equip advanced weapons and armor to strengthen your defense capabilities, allowing you to withstand even the mightiest battles.
+- ⚔️ **Swift Annihilation:** Unleash destructive attacks that can instantly eliminate your enemies, turning you into an unstoppable force in the world of Minecraft.
+- ⏸️ **Time Control:** Take control of time itself! Pause the flow of in-game time when necessary, granting you a strategic advantage during intense moments.
+- 🗡️ **Classic Blocking:** Relive the classic 1.8.9 style blocking mechanics, reimagined for the modern 1.20.1 version.
 
-## <p align="center">安装方式</p>
-- 1. 确保您已安装 Minecraft Forge/NeoForged。
-- 2. 从 Releases（发布版本） 部分下载 Real Sword 模组。
-- 3. 找到您的 Minecraft 模组资料夹。
-- 4. 将下载的 JAR 档案放入模组资料夹。
-- 5. 启动 Minecraft，尽情享受增强的游戏体验！
+## <p align="center">Installation</p>
+- 1. Ensure you have Minecraft Forge/NeoForged installed.
+- 2. Download the Real Sword mod from the Releases section.
+- 3. Locate your Minecraft mods folder.
+- 4. Place the downloaded JAR file into the mods folder.
+- 5. Launch Minecraft and enjoy an enhanced gaming experience!
 
-## <p align="center">使用方式</p>
-- 持握剑并对准实体，按下左键，消灭实体。
-- 持握剑并按住右键以暂停游戏时间。
-- > 放开以恢复时间。
-- 持握剑并按住右键以呈现经典的格挡机制。
-- > 放开以消灭所有实体(不包括您)。
+## <p align="center">Usage</p>
+- Hold the sword and left-click to eliminate entities.
+- Hold the sword and right-click to pause the in-game time.
+- > Release to resume time.
+- Hold the sword and right-click to activate the classic blocking mechanics.
+- > Release to eliminate all entities (except yourself).
 
-## <p align="center">贡献方式</p>
-- 欢迎贡献！如果您有兴趣改进此模组，请随时提交拉取请求。
+## <p align="center">Contributions</p>
+- Contributions are welcome! Feel free to submit pull requests if you're interested in improving the mod.
 
-## <p align="center">鸣谢</p>
-- 此模组由NOBTG创建。特别感谢ji_GGO以及Suel_ki对其贡献。
+## <p align="center">Acknowledgments</p>
+- This mod was created by NOBTG. Special thanks to ji_GGO and Suel_ki for their contributions.
 
-## <p align="center">授权条款</p>
-- 本专案遵循MIT License。
-- 更多详细信息，请参阅 LICENSE（授权档案）。
+## <p align="center">License</p>
+- This project follows the MIT License.
+- For more detailed information, please refer to the LICENSE file.
