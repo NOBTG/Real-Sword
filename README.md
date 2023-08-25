@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 # <p align="center">Real Sword（真实之剑）Mod - Minecraft 1.20.1</p>
+
+![Real Sword 橫幅圖片](/main.png)
 
 ### <p align="center">欢迎来到 Real Sword（真实之剑）Mod，适用于 Minecraft Forge/NeoForged 1.20.1 平台！</p>
 ### <p align="center">这个功能丰富、创新的模组引入了一系列令人兴奋的特色，包括强化的防御机制、即时消灭能力（甚至可以锁血），以及令人惊叹的暂停游戏时间的功能。</p>
